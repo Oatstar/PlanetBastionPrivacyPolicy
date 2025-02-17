@@ -29,4 +29,9 @@ Right to be forgotten
 The user is at any point eligible for account and data deletion. Google handles data of the user for the in app purchases. Review Googles Privacy Policy for their data collection procedures.
 Ironsource is used for Ad integration and their privacy policy can be found here: https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/#step-6
 
+On deleting your data:
+- On deleting your data of the game, just uninstall the game.
+- For deleting data collected by Google for payment and Google Play info, refer to Google ToS and Privacy Policy
+- For deleting data collected by Ad Mediation (Ironsource), refer to their information on how to do it: https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/#step-6
+
 This policy is effective as of 2025-02-17
