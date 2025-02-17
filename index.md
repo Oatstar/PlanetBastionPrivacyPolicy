@@ -33,5 +33,6 @@ On deleting your data:
 - On deleting your data of the game, just uninstall the game.
 - For deleting data collected by Google for payment and Google Play info, refer to Google ToS and Privacy Policy
 - For deleting data collected by Ad Mediation (Ironsource), refer to their information on how to do it: https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/#step-6
+Dislaimer: Only necessary data is collected for presenting ads. By default the game ops the user out of personalized ads. If the player wants personalized ads, they deliberatelly need to access the Data collection menu and click "Accept".
 
 This policy is effective as of 2025-02-17
